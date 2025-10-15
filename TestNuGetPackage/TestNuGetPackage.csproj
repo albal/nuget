@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     
     <!-- NuGet Package Properties -->
-    <PackageId>TestNuGetPackage</PackageId>
+    <PackageId>Albal.TestNuGetPackage</PackageId>
     <Version>1.0.1</Version>
     <Authors>Your Name</Authors>
     <Company>Your Company</Company>
