@@ -7,7 +7,7 @@
     
     <!-- NuGet Package Properties -->
     <PackageId>Albal.TestNuGetPackage</PackageId>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
     <Authors>Your Name</Authors>
     <Company>Your Company</Company>
     <Description>A test NuGet package for demonstration purposes</Description>
